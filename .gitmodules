@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/park-csu/blog.changsupark.net
+	branch = gh-pages
